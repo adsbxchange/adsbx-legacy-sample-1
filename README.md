@@ -2,6 +2,5 @@
 
 PostTime: millseconds since Linux Epoc UTC.
 
-More information on VRS fields.
-https://www.adsbexchange.com/datafields/
+More information on Legacy VRS fields: https://www.adsbexchange.com/datafields/
 
